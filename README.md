@@ -6,6 +6,9 @@ HomeBot is a dynamic smart home control application built using Python and KivyM
 
 This project demonstrates a data-driven approach to UI generation. Instead of manually placing buttons and sliders for every light or fan, the application parses a custom configuration string to build the object model in memory, which the interface then reflects.
 
+### Demo
+[](https://github.com/user-attachments/assets/596af721-dc95-4d7f-baa8-c8f4e78ecead)
+
 ### Key Features
 
 *   **Custom HomeBotDDL**: A specialized syntax for defining the hierarchy of a home.
